@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Olá, Eu sou o 
+    Olá, Eu sou o
     <a href=https://www.linkedin.com/in/vitor-miguel-65a7a8215>Vitor Miguel</a>
   </h1>
   

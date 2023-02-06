@@ -6,11 +6,11 @@
   </h1>
   
   <p align="center">
-    Sou Formado em ADS, entusiasta e estudante de programação, principalmente com foco em Front end!
+    Sou Formado em Análise e Desenvolvimento de Sistemas, entusiasta e estudante de programação, com foco, principalmente, em Front end! 🔥
   </p>
   
   <p align="center">
-    Já me segue para acompanhar meus avanços por aqui!😉️
+    Já me segue para acompanhar meus avanços por aqui! 🚀
   </p>
   
 </div>

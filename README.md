@@ -6,7 +6,8 @@
   </h1>
   
   <p align="center">
-    Sou Formado em Análise e Desenvolvimento de Sistemas, entusiasta e estudante de programação, com foco, principalmente, em Front end! 🔥
+    Sou Formado em Análise e Desenvolvimento de Sistemas, entusiasta e estudante de programação, <br>
+    com foco, principalmente, em Front end! 🔥
   </p>
   
   <p align="center">

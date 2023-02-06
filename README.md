@@ -10,7 +10,7 @@
   </p>
   
   <p align="center">
-    Já me segue para acompanhar meus avanços por aqui! 😉️
+    Já me segue para acompanhar meus avanços por aqui!😉️
   </p>
   
 </div>

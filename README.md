@@ -1,13 +1,12 @@
 <div>
   
   <h1 align="center">
-    Olá, Eu sou o
+    Olá, sou o
     <a href=https://www.linkedin.com/in/vitor-miguel-65a7a8215>Vitor Miguel</a>
   </h1>
   
   <p align="center">
-    Sou Formado em Análise e Desenvolvimento de Sistemas, entusiasta e estudante de programação, <br>
-    com foco, principalmente, em Front end! 🔥
+    Sou Formado em Análise e Desenvolvimento de Sistemas e estudante de programação! 🔥
   </p>
   
   <p align="center">

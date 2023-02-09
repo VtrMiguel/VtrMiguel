@@ -42,3 +42,7 @@
 <div align="center">
   <p>© 2023 - VtrMiguel</p>
 </div>
+
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=VtrMiguel)
+</div>

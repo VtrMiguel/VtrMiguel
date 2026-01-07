@@ -6,11 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Formado em Análise e Desenvolvimento de Sistemas, <br> Pós graduado em Segurança da Informação e entusiasta de tecnologia! 🔥
-  </p>
-  
-  <p align="center">
-    Já me segue para acompanhar meus avanços! 🚀
+    Sou Formado em Análise e Desenvolvimento de Sistemas, <br> Pós graduado em Segurança da Informação e entusiasta de tecnologia! 🔥 <br> Já me segue para acompanhar meus avanços! 🚀
   </p>
   
 </div>

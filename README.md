@@ -15,13 +15,6 @@
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/VtrMiguel">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VtrMiguel&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VtrMiguel&layout=compact&langs_count=10&theme=radical">
-  </a>
-</div>
-
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

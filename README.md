@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Formado em Análise e Desenvolvimento de Sistemas e estudante de programação! 🔥
+    Sou Formado em Análise e Desenvolvimento de Sistemas, Pós graduado em Segurança da Informação e entusiasta de tecnologia! 🔥
   </p>
   
   <p align="center">
